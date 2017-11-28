@@ -7,6 +7,7 @@ public class Forloop {
 				System.out.print("*");
 			    System.out.println();
 			}
+		System.out.println("akshita");
 	}
 }
 
